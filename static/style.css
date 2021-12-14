@@ -1,0 +1,10 @@
+body {
+    background-color: #61a7e4;
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Helvetica, sans-serif; 
+  }
+  .jumbotron {
+    background-image: url("/images/ScienceLab.jpg");
+    background-size: 100% 157%;
+    text-align: center;
+  }
